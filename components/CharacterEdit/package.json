@@ -1,0 +1,6 @@
+{
+	"name": "CharacterEdit",
+	"version": "0.0.0",
+	"main": "./CharacterEdit.js",
+	"private": true
+}

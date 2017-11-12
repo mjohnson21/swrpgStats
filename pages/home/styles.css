@@ -1,0 +1,39 @@
+/**
+ * React Static Boilerplate
+ * https://github.com/koistya/react-static-boilerplate
+ *
+ * Copyright © 2015-2016 Konstantin Tarkus (@koistya)
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+@media screen and (max-width: 1024px) {
+
+  .content {
+    padding: 0 16px;
+  }
+
+}
+
+.char {
+  width: calc(100% - 2em);
+  margin-bottom: 1em;
+}
+
+.title {
+  background-color: #ccc;
+}
+
+@media screen and (min-width: 600px) {
+
+  .char {
+    width: calc(50% - 1.5em);
+    display: inline-block;
+
+    &:nth-child(2n - 1) {
+      margin-right: 1em;
+    }
+  }
+
+}

@@ -1,0 +1,9 @@
+.CharScreen {
+  display: flex;
+}
+
+.Character {
+  flex-grow: 1;
+  text-align: center;
+  border-right: 1px solid #ccc;
+}

@@ -1,0 +1,6 @@
+{
+	"name": "CharScreen",
+	"version": "0.0.0",
+	"main": "./CharScreen.js",
+	"private": true
+}

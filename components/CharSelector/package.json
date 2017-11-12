@@ -1,0 +1,6 @@
+{
+	"name": "CharSelector",
+	"version": "0.0.0",
+	"main": "./CharSelector.js",
+	"private": true
+}

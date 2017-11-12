@@ -1,0 +1,16 @@
+
+.content {
+  padding: 0 16px;
+  display: flex;
+  flex-directin: row;
+}
+
+.charCol {
+  width: 16vw;
+  flex-grow: 0;
+}
+
+.selectedCol {
+  flex-grow: 1;
+  display: flex;
+}

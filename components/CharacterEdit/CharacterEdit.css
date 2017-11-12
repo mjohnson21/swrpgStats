@@ -1,0 +1,10 @@
+.field {
+  width: 20%;
+}
+
+@media screen and (max-width: 600px) {
+
+  .field {
+    width: 33%;
+  }
+}
